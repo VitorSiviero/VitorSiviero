@@ -1,6 +1,7 @@
 - 👋 Hi, I’m VitorSiviero
 
-<div>
+<div align="center">
+<h2> Seja, bem vindo! </h2>
 <a href="https://github.com/VitorSiviero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorSiviero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  </div>
@@ -12,22 +13,6 @@
   <img align="center" alt="assembly" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/e495457f5ff28c343f9e422f8e3cf80fd3e80890/topics/assembly/assembly.png">
 </div>
 
-  
-<div align="center">
-<h2> Seja, bem vindo!</h2>
-</div>
-</br>
-<div align="center">
-  <div align="center">
-  <a href="https://github.com/VitorSiviero">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorSiviero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    </div>
-</br>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorSiviero&layout=compact&langs_count=7&theme=dark"/>
-</div>
-</div>
-</br>
  <div align="center">
 <div style="display: inline_block"><br>
   <img align="center" alt="Formando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
